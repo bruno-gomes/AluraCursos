@@ -1,2 +1,2 @@
 # AluraCursos
-Cursos realizados na plataforma Alura
+Cursos sobre agularJS-2
